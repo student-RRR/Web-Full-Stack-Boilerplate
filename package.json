@@ -61,5 +61,8 @@
     "webpack-dev-middleware": "^1.12.0",
     "webpack-dev-server": "^2.11.1",
     "webpack-hot-middleware": "^2.20.0"
+  },
+  "resolutions": {
+	"**/**/node-gyp": "5.0.0"
   }
 }
